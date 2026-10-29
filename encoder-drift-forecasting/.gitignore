@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+outputs/
+wandb/
+*.ckpt
+*.pt
+.DS_Store
