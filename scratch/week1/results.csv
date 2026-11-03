@@ -1,1 +1,4 @@
 policy,task,steps,seed,n_episodes,success_rate,source,wandb_run,date
+act,aloha_sim_insertion_human,25000,0,50,0.22,kaggle_act_aloha,https://wandb.ai/rohit_mekkoth-uc-berkeley-electrical-engineering-comput/scratch/runs/fgg36cfa,2026-10-30
+act,aloha_sim_insertion_human,50000,0,50,0.12,kaggle_act_aloha,https://wandb.ai/rohit_mekkoth-uc-berkeley-electrical-engineering-comput/scratch/runs/fgg36cfa,2026-10-30
+diffusion,pusht,40000,0,50,0.30,kaggle_dp_pusht_eval,,2026-11-02
